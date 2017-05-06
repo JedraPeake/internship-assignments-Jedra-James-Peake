@@ -18,4 +18,5 @@ Read the rest of the materials, in the useful link section and completed all ass
 - Started Git-Game V2 at https://www.git-game.com/
 
 ### Day 4
-Completed Git-Game V2
+- Completed Git-Game V2 - https://raw.githubusercontent.com/JedraPeake/internship-assignments-Jedra-James-Peake/master/CompletedCourses/gitGameV2Complete.PNG
+- Completed ex. 13-16 of learnpythonthehardway.org https://github.com/JedraPeake/learnPythonTheHardWay.git
