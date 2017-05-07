@@ -19,4 +19,7 @@ Read the rest of the materials, in the useful link section and completed all ass
 
 ### Day 4
 - Completed Git-Game V2 - https://raw.githubusercontent.com/JedraPeake/internship-assignments-Jedra-James-Peake/master/CompletedCourses/gitGameV2Complete.PNG
-- Completed ex. 13-16 of learnpythonthehardway.org https://github.com/JedraPeake/learnPythonTheHardWay.git
+- Completed ex. 13-16 of learnpythonthehardway.org available at https://github.com/JedraPeake/learnPythonTheHardWay.git
+
+### Weekend 1
+- Completed ex. 17-35 of learnpythonthehardway.org available at https://github.com/JedraPeake/learnPythonTheHardWay.git
