@@ -24,3 +24,6 @@ Read the rest of the materials, in the useful link section and completed all ass
 ### Weekend 1
 - Completed ex. 17-35 of learnpythonthehardway.org available at https://github.com/JedraPeake/learnPythonTheHardWay.git (Saturday)
 - Completed ex. 36-45 of learnpythonthehardway.org available at https://github.com/JedraPeake/learnPythonTheHardWay.git (Sunday)
+
+### Day 5
+- Completed ex. 46-49 of learnpythonthehardway.org available at https://github.com/JedraPeake/learnPythonTheHardWay.git
