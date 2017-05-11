@@ -31,3 +31,7 @@ Read the rest of the materials, in the useful link section and completed all ass
 ### Day 6
 - Got docker working and started https://training.docker.com/introduction-to-docker, however got stuck due to the following error https://raw.githubusercontent.com/JedraPeake/internship-assignments-Jedra-James-Peake/master/Issues/dockerIssue.PNG
 - Finished book 1 on the reading list power searching with google
+
+### Day 7
+- Fixed my docker issues, and completed the first 2 videos in the https://training.docker.com/introduction-to-docker tutorial
+- Uploaded my first public docker hub repo called jedra/testexample
