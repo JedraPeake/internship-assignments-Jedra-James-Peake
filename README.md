@@ -37,4 +37,5 @@ Read the rest of the materials, in the useful link section and completed all ass
 - Uploaded my first public docker hub repo called jedra/testexample
 
 ### Day8
+- Completed https://training.docker.com/docker-operations
 - Finished book 2 on the reading list Advanced web surfing with Firefox
