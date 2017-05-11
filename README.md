@@ -35,3 +35,6 @@ Read the rest of the materials, in the useful link section and completed all ass
 ### Day 7
 - Fixed my docker issues, and completed the first 2 videos in the https://training.docker.com/introduction-to-docker tutorial
 - Uploaded my first public docker hub repo called jedra/testexample
+
+### Day8
+- Finished book 2 on the reading list Advanced web surfing with Firefox
