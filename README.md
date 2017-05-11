@@ -38,4 +38,7 @@ Read the rest of the materials, in the useful link section and completed all ass
 
 ### Day8
 - Completed https://training.docker.com/docker-operations
+- Read http://blog.scottlowe.org/2014/03/11/a-quick-introduction-to-docker/
+- Read https://deis.com/blog/2015/dockerfile-instructions-syntax/
+- Read https://docs.docker.com/engine/reference/builder/
 - Finished book 2 on the reading list Advanced web surfing with Firefox
