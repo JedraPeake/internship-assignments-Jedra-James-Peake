@@ -37,6 +37,8 @@ Read the rest of the materials, in the useful link section and completed all ass
 - Uploaded my first public docker hub repo called jedra/testexample
 
 ### Day8
+- Started HTML & CSS course (https://www.codecademy.com/learn/web), completed 33% and 2 projects available at: https://github.com/JedraPeake/HTML-and-CSS-course-projects.git
+- Completed Hello-Docker, available at https://github.com/JedraPeake/Hello-Docker.git
 - Completed https://training.docker.com/docker-operations
 - Read http://blog.scottlowe.org/2014/03/11/a-quick-introduction-to-docker/
 - Read https://deis.com/blog/2015/dockerfile-instructions-syntax/
