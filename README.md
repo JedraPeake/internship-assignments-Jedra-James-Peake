@@ -47,4 +47,4 @@ Read the rest of the materials, in the useful link section and completed all ass
 
 ### Day9
 - Continued on the HTML & CSS course (https://www.codecademy.com/learn/web), completed 83% and the next 3 projects available at: https://github.com/JedraPeake/HTML-and-CSS-course-projects.git
-- Completed book 3 on the reading list at https://www.codecademy.com/learn/learn-the-command-line
+- Completed book 3 on the reading list at https://www.codecademy.com/learn/learn-the-command-line as shown at https://raw.githubusercontent.com/JedraPeake/internship-assignments-Jedra-James-Peake/master/CompletedCourses/commandLine.PNG
