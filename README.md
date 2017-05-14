@@ -55,3 +55,7 @@ Saturday:
 - Read http://hesketh.com/publications/progressive_enhancement_and_the_future_of_web_design.html
 - Read http://uxmag.com/articles/combining-responsive-and-adaptive-strategies-to-solve-mobile-design-challenges
 - Read https://www.lukew.com/ff/entry.asp?1390
+Sunday:
+- Read https://developers.google.com/webmasters/mobile-sites/mobile-seo/responsive-design
+- Read https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/?hl=en
+- Read https://developers.google.com/web/fundamentals/?hl=en-US
