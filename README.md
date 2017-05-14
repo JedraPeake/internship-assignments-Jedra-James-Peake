@@ -48,3 +48,10 @@ Read the rest of the materials, in the useful link section and completed all ass
 ### Day9
 - Continued on the HTML & CSS course (https://www.codecademy.com/learn/web), completed 83% and the next 3 projects available at: https://github.com/JedraPeake/HTML-and-CSS-course-projects.git
 - Completed book 3 on the reading list at https://www.codecademy.com/learn/learn-the-command-line as shown at https://raw.githubusercontent.com/JedraPeake/internship-assignments-Jedra-James-Peake/master/CompletedCourses/commandLine.PNG
+
+### Weekend 2
+Saturday:
+- Completed the HTML & CSS course (https://www.codecademy.com/learn/web)
+- Read http://hesketh.com/publications/progressive_enhancement_and_the_future_of_web_design.html
+- Read http://uxmag.com/articles/combining-responsive-and-adaptive-strategies-to-solve-mobile-design-challenges
+- Read https://www.lukew.com/ff/entry.asp?1390
