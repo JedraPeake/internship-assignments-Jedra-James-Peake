@@ -59,3 +59,6 @@ Sunday:
 - Read https://developers.google.com/webmasters/mobile-sites/mobile-seo/responsive-design
 - Read https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/?hl=en
 - Read https://developers.google.com/web/fundamentals/?hl=en-US
+
+### Day10
+- Completed the tutorial at https://tutorial.djangogirls.org/en/, avalible at https://github.com/JedraPeake/my-first-blog.git
