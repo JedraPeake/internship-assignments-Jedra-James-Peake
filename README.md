@@ -65,5 +65,6 @@ Sunday:
 - Completed the tutorial at https://tutorial.djangogirls.org/en/, avalible at https://github.com/JedraPeake/my-first-blog.git
 
 ### Day11
-- Read https://docs.docker.com/compose/django/
-- Completed the tutorial at https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/ available at https://github.com/JedraPeake/django-development-with-docker-compose-and-machine.git
+- Completed the tutorial https://docs.docker.com/compose/django/
+- Completed the tutorial at https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
+- both available https://github.com/JedraPeake/additional-django-courses.git
