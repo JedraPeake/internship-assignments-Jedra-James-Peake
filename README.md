@@ -55,6 +55,7 @@ Saturday:
 - Read http://hesketh.com/publications/progressive_enhancement_and_the_future_of_web_design.html
 - Read http://uxmag.com/articles/combining-responsive-and-adaptive-strategies-to-solve-mobile-design-challenges
 - Read https://www.lukew.com/ff/entry.asp?1390
+
 Sunday:
 - Read https://developers.google.com/webmasters/mobile-sites/mobile-seo/responsive-design
 - Read https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/?hl=en
@@ -62,3 +63,7 @@ Sunday:
 
 ### Day10
 - Completed the tutorial at https://tutorial.djangogirls.org/en/, avalible at https://github.com/JedraPeake/my-first-blog.git
+
+### Day11
+- Read https://docs.docker.com/compose/django/
+- Completed the tutorial at https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/ available at https://github.com/JedraPeake/django-development-with-docker-compose-and-machine.git
