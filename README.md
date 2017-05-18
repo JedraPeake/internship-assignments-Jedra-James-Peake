@@ -68,3 +68,6 @@ Sunday:
 - Completed the tutorial https://docs.docker.com/compose/django/
 - Completed the tutorial at https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/
 - both available https://github.com/JedraPeake/additional-django-courses-with-docker.git
+
+### Day12
+- Started a simple django app using docker https://github.com/JedraPeake/SimpleDjangoApp.git
