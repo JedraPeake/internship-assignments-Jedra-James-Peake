@@ -71,3 +71,7 @@ Sunday:
 
 ### Day12
 - Started a simple django app using docker https://github.com/JedraPeake/SimpleDjangoApp.git
+
+### Day13
+- Reviewed some previous courses/posts
+- Continued creating a simple django app using docker https://github.com/JedraPeake/SimpleDjangoApp.git
