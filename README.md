@@ -75,3 +75,6 @@ Sunday:
 ### Day13
 - Reviewed some previous courses/posts
 - Continued creating a simple django app using docker https://github.com/JedraPeake/SimpleDjangoApp.git
+
+### Day14
+- Continued creating a simple django app using docker https://github.com/JedraPeake/SimpleDjangoApp.git, started the HTML/CSS validation tests
