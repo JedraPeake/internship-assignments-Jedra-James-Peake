@@ -80,4 +80,6 @@ Sunday:
 - Continued creating a simple django app using docker https://github.com/JedraPeake/SimpleDjangoApp.git, started the HTML/CSS validation tests
 
 ### Weekend 3
-- Passed CSS validation tests for a single django app, only error in HTML is because the HTML links to the CSS using static files which doesn't pass the test(Saturday)
+- Passed CSS validation tests for a single django app(Saturday)
+- Passed HTML validation tests and published the project on docker hub at jedra/simpledjangoapp (Sunday)
+
