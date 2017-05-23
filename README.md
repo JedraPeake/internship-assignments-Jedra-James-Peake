@@ -83,3 +83,6 @@ Sunday:
 - Passed CSS validation tests for a single django app(Saturday)
 - Passed HTML validation tests and published the project on docker hub at jedra/simpledjangoapp (Sunday)
 
+### Day15
+- Completed phase 1
+
